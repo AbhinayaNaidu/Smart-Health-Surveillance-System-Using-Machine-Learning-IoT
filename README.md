@@ -167,7 +167,7 @@ Smart-Health-Surveillance-System/
 ### Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/AbhinayaNaidu/Smart-Health-Surveillance-System-Using-Machine-Learning-IoT 
 ```
 
 ### Navigate to Project
@@ -236,7 +236,7 @@ ThingSpeak is used to
 ## Hardware Setup
 
 <p align="center">
-<img src="hardware.jpeg" width="500">
+<img src="hardware.jpeg" width="300">
 </p>
 
 > Add additional screenshots such as:
