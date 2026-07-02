@@ -286,7 +286,7 @@ ThingSpeak is used to
 
 # 👩‍💻 Developer
 
-**Nadiu Abhinaya**
+**Naidu Abhinaya**
 
 🎓 B.Tech – Artificial Intelligence & Machine Learning
 
